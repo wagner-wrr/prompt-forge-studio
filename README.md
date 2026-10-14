@@ -1,14 +1,14 @@
 # 🎛️ Prompt Forge Studio
 
 <p>
-  <a href="https://felipeaguiarcode.github.io/prompt-forge-studio/"><img src="https://img.shields.io/badge/Abrir_o_app-Prompt_Forge_Studio-3b63fb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Abrir o Prompt Forge Studio no GitHub Pages"></a>
+  <a href="https://wagner-wrr.github.io/prompt-forge-studio/"><img src="https://img.shields.io/badge/Abrir_o_app-Prompt_Forge_Studio-3b63fb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Abrir o Prompt Forge Studio no GitHub Pages"></a>
 </p>
 
 Editor de prompts em um único arquivo HTML. Interface escura inspirada nos aplicativos criativos da Adobe e no sistema Spectrum: explorador de arquivos, abas, composição central e biblioteca lateral. O laranja identifica a marca e o documento ativo; o azul marca seleção, foco e a ação principal.
 
 ## 🚀 Como abrir
 
-Use a versão online em **[felipeaguiarcode.github.io/prompt-forge-studio](https://felipeaguiarcode.github.io/prompt-forge-studio/)**, publicada pelo GitHub Pages a partir da branch `main`, ou abra `index.html` no navegador. O aplicativo não exige instalação, dependências, login, chave de API ou conexão com serviços externos.
+Use a versão online em **[https://wagner-wrr.github.io/prompt-forge-studio](https://wagner-wrr.github.io/prompt-forge-studio/)**, publicada pelo GitHub Pages a partir da branch `main`, ou abra `index.html` no navegador. O aplicativo não exige instalação, dependências, login, chave de API ou conexão com serviços externos.
 
 Também pode ser publicado como um site estático. Para servir localmente, execute na pasta do projeto:
 
